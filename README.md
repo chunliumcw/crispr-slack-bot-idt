@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25000664/README.md)
 # 🧬 IDT CRISPR gRNA Design Bot for Slack
 
 A Python Slack bot that integrates **IDT SciTools Plus API** to design, check, and look up CRISPR-Cas9 guide RNAs directly from Slack slash commands.
